@@ -5,7 +5,7 @@ buildscript {
 
     ext {
         geckoviewChannel = "nightly"
-        geckoviewVersion = "88.0.20210321093903"
+        geckoviewVersion = "89.0.20210403093157"
     }
 
     repositories {
